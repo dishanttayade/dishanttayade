@@ -1,4 +1,4 @@
-# Go away!
+<!-- # Go away! -->
 <!-- ![](image/go_away_nobg.png) -->
 ![Dishant's github stats](https://github-readme-stats.vercel.app/api?username=dishanttayade&show_icons=true&theme=synthwave)
 <br />
