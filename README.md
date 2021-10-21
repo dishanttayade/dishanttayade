@@ -1,9 +1,7 @@
 <!-- # Go away! -->
 <!-- ![](image/go_away_nobg.png) -->
-## Hi there, I'm Dishant!   
-<hr />
-Student at [Indian Institute of Information Technology, Sri City](https://www.iiits.ac.in/)
-
+## Hi there, I'm Dishant!
+<p><em>Student at <a href="http://iiits.in/">Indian Institute of Information Technology Sricity</a></em></p>
 ## Languages I Know
 <img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
