@@ -24,9 +24,13 @@
 <!-- ![Dishant's github stats](https://github-readme-stats.vercel.app/api?username=dishanttayade&show_icons=true&theme=synthwave)
 <br />
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dishanttayade&langs_count=8&layout=compact) -->
+
 <a href="https://github.com/codernishchay">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dishanttayade&layout=Demo&theme=blue-green" />
-</a>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dishanttayade&layout=Demo&theme=blue-green" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dishanttayade&count_private=true&show_icons=true&theme=radical&hide_rank=false(https://github.com/anuraghazra/github-readme-stats)"
+      />
+  </a>
 <br />
 
 ![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=dishanttayade&color=blue)
